@@ -1,0 +1,4 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Disallow:
+"https://i.ibb.co/wrvp61P/Screenshot-20230207-191425-Instagram.jpg",
