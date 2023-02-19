@@ -51,6 +51,6 @@ export const skills = [
     "JavaScript",
     "HTML/CSS",
     "AWS S3 Bucket",
-    "Adobe Photoshop",
+    "Adobe PhotoShop",
     "CMS - WordPress/Shopify",
 ];

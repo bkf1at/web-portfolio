@@ -1,2 +1,8 @@
-{"css.lint.emptyRules": "ignore",
+{
+    "css.lint.emptyRules": "ignore",
+    "cSpell.words": [
+        "Adinkra",
+        "Bernison",
+        "Dukuh"
+    ],
 }

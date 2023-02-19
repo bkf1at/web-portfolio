@@ -13,7 +13,7 @@ export default function Projects() {
                         I use my skills to develop web applications that are responsive.I manage and maintain these websites per client needs and specifications.As a freelancer, I also work with companies and web agencies. 
                     </p> 
                 </div >
-                <div className = "flex flex-wrap -m-4" > {
+                <div className = "flex flex-wrap -m-4 text-left" > {
                     projects.map((project) => ( 
                         <a href = { project.link } key = { project.image } className = "sm:w-1/2 w-100 p-4" >
                             <div className = "flex relative" >
