@@ -35,7 +35,7 @@ export const testimonials = [{
         company: "I.T Specialist USDA - ARS",
     },
     {
-        quote: "Barbara is an exceptional web programmer. I would recommend her anytime, any day, and anywhere. it was a great pleasure building my website. I couldn’t be happier with the final product of my website.",
+        quote: "Barbara has worked on several high-profile projects, and in each case, she delivered outstanding results. Her ability to manage multiple projects simultaneously while still maintaining the highest level of quality is awe-inspiring. Overall, Barbara is an exceptional web designer who would be a great asset to any organization. ",
         image: "https://i.postimg.cc/yYY3fjbr/seth.jpg",
         name: "Adinkra Seth",
         company: "Visual Interactive Designer at US Bank",
