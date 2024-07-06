@@ -1,3 +1,4 @@
+import { CursorClickIcon} from "@heroicons/react/solid";
 import React from "react";
 //import ReactDOM from 'react-dom';
 import { SocialIcon } from 'react-social-icons';
@@ -54,7 +55,17 @@ export default function Contact() {
                 </div> 
                 <form netlify name = "test" onSubmit = { handleSubmit } className = "lg:w-1/3 md:w-1/2 flex flex-col md:ml-auto w-full md:py-8 mt-8 md:mt-0" >
                     <h2 className = "text-white sm:text-4xl text-3xl mb-1 font-medium title-font" >Hire Me </h2> 
+                    
                     <p className = "leading-relaxed mb-5" >I offer responsive web applications with the use of HTML, CSS, WordPress as a developer and AWS as my cloud platform. </p> 
+                    <div><p>Check out my freelance service packages here; </p>
+                    <CursorClickIcon className = "mx-auto inline-block w-6 text-purple-500 mb-2" />
+        <a href="https://zabbyweekly.com/home/">
+      <button className = "text-white text-xl mb-1 hover:bg-purple-400 rounded-full font-small title-font">
+        Freelance Services
+      </button>
+    </a>
+        
+        </div>
                     <div className = "relative mb-4" >
                         <label htmlFor = "name" className = "leading-7 text-sm text-gray-400" >Name </label> 
                         <input type = "text" id = "name" name = "name" className = "w-full bg-gray-800 rounded border border-gray-700 focus:border-purple-500 focus:ring-2 focus:ring-purple-900 text-base outline-none text-gray-100 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out"

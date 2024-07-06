@@ -1,4 +1,22 @@
-export const projects = [{
+
+export const projects = [
+    
+    {
+        title: "Birthday Registration",
+        subtitle: "HTML/CSS/React.Js, AWS Amplify, Dynamo DB",
+        description: "React built website with AWS Amplify and DynamoDB properties to save data on the backend to keep track of RSVPs for a birthday party registration event.",
+        image: "./nileday.gif",
+        link: "https://nilebday.netlify.app/",
+    },
+    {
+        title: "ADTRAV Travel Management",
+        subtitle: "HTML/CSS/Js, Netlify",
+        description: "A travel management software and service company that enables corporate agencies and government organizations to travel easily and efficiently as possible.",
+        image: "./adtrav.gif",
+        link: "https://myadtrav.netlify.app/",
+    },
+
+    {
         title: "AWS Amplify: Notes App",
         subtitle: "React/Amplify/CSS/Js, WordPress",
         description: "The app uses a 6 digit code authentication to set up an account or log in, and allows users to save and retrieve notes with description and image at anytime.",
@@ -26,13 +44,7 @@ export const projects = [{
         image: "./empower.gif",
         link: "https://knowempower.org/",
     },
-    {
-        title: "StepKnock LLC: Marketing",
-        subtitle: "HTML/CSS/Js, WordPress",
-        description: "A solutions company that enables end-users to access third party marketing strategies through advance digital tools. I developed the application from scratch, page layout designs and building content.",
-        image: "./step.gif",
-        link: "https://stepknock.com/",
-    },
+    
 ];
 
 export const testimonials = [{
